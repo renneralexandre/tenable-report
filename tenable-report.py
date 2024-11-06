@@ -31,7 +31,7 @@ def list_folders():
 def list_servers():
     url = "https://cloud.tenable.com/scans/"
     scan_ids = [
-        [45, "Theraskin "],  # SkyOne-EasySky 03/11
+        [45, "Theraskin "],
     ]
 
     class Bcolors:
